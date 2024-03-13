@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "328725696763",
+    "project_id": "foodkfc-b1e2a",
+    "storage_bucket": "foodkfc-b1e2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328725696763:android:e02831fe285cfc9c08e05e",
+        "android_client_info": {
+          "package_name": "com.example.du_an"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMgynica4_9gMUiLSVt1fc9xFC2lX__kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

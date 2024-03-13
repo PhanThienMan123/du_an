@@ -1,0 +1,16 @@
+{
+  "catagory": [
+    {
+      "name": "Ga",
+      "subCatagory": ["1 ga", "nhieu ga"]
+    },
+    {
+      "name": "Combo",
+      "subCatagory": ["Combo 1", "Combo nhieu"]
+    },
+    {
+      "name": "Burger",
+      "subCatagory": ["Burger ga", "Burger bo"]
+    }
+  ]
+}

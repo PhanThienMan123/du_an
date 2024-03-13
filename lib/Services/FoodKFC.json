@@ -1,0 +1,52 @@
+{
+  "Food": {
+    "01": {
+      "name": "1 ga Dia Trung Hai",
+      "description": "1 mieng ga Dia Trung Hai",
+      "price": "41000",
+      "image": "https://static.kfcvietnam.com.vn/images/items/lg/1-ga-cuon-dia-trung-hai.jpg?v=LE5wmL"
+    },
+    "02": {
+      "name": "2 ga Dia Trung Hai",
+      "description": "2 mieng ga Dia Trung Hai",
+      "price": "79000",
+      "image": "https://static.kfcvietnam.com.vn/images/items/lg/2-ga-cuon-dia-trung-hai.jpg?v=LE5wmL"
+    },
+    "03": {
+      "name": "3 ga Dia Trung Hai",
+      "description": "3 mieng ga Dia Trung Hai",
+      "price": "117000",
+      "image": "https://static.kfcvietnam.com.vn/images/items/lg/3-ga-cuon-dia-trung-hai.jpg?v=LE5wmL"
+    },
+    "04": {
+      "name": "6 ga Dia Trung Hai",
+      "description": "6 mieng ga Dia Trung Hai",
+      "price": "231000",
+      "image": "https://static.kfcvietnam.com.vn/images/items/lg/6-ga-cuon-dia-trung-hai.jpg?v=LE5wmL"
+    },
+    "05": {
+      "name": "Combo ga Dia Trung Hai A",
+      "description": "1 Miếng Gà Địa Trung Hải + 1 Burger (bất kỳ) + 1 Pepsi Lon",
+      "price": "93000",
+      "image": "https://static.kfcvietnam.com.vn/images/items/lg/combo-ga-cuon-dia-trung-hai-a.jpg?v=LE5wmL"
+    },
+    "06": {
+      "name": "Combo ga Dia Trung Hai B",
+      "description": "2 Miếng Gà Địa Trung Hải + 1 Gà Viên Popcorn (vừa) + 1 Pepsi Lon",
+      "price": "125000",
+      "image": "https://static.kfcvietnam.com.vn/images/items/lg/combo-ga-cuon-dia-trung-hai-b.jpg?v=LE5wmL"
+    },
+    "07": {
+      "name": "BURGER ZINGER",
+      "description": "1 Burger Zinger",
+      "price": "54000",
+      "image": "https://static.kfcvietnam.com.vn/images/items/lg/Burger-Zinger.jpg?v=LW552g"
+    },
+    "08": {
+      "name": "BURGER GÀ QUAY FLAVA",
+      "description": "1 Burger Gà Quay Flava",
+      "price": "54000",
+      "image": "https://static.kfcvietnam.com.vn/images/items/lg/Burger-Flava.jpg?v=LW552g"
+    }
+  }
+}
